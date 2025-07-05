@@ -1,6 +1,7 @@
-# Movie Recommendation System
+# Movie Recommandation App
+deployed link:https://movie-recommender-cosin.streamlit.app/
+![image](https://github.com/user-attachments/assets/ae3f2965-d5ac-4d04-83ec-6cb3511be490)
 
-![WhatsApp Image 2025-07-04 at 15 41 16_2f6f5e98](https://github.com/user-attachments/assets/5e3b7b1c-ffe4-4041-8e97-1569e73fde90)
 Built a movie recommendation system using content-based filtering (cosine similarity) and collaborative filtering .
 
 • Suggested movies based on user preferences, genres, and historical ratings.
